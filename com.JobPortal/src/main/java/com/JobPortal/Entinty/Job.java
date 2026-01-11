@@ -25,5 +25,6 @@ public class Job {
 	private String description;
 	private String maxSalary;
 	private String minSalary;
+	private String gender;
 
 }
